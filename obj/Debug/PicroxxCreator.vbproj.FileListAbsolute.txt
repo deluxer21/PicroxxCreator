@@ -1,0 +1,14 @@
+C:\Users\Luke\AppData\Local\Temporary Projects\PicroxxCreator\bin\Debug\PicroxxCreator.exe.config
+C:\Users\Luke\Documents\Visual Studio 2015\Projects\PicroxxCreator\PicroxxCreator\bin\Debug\PicroxxCreator.exe.config
+C:\Users\Luke\Documents\Visual Studio 2015\Projects\PicroxxCreator\PicroxxCreator\bin\Debug\PicroxxCreator.exe
+C:\Users\Luke\Documents\Visual Studio 2015\Projects\PicroxxCreator\PicroxxCreator\bin\Debug\PicroxxCreator.pdb
+C:\Users\Luke\Documents\Visual Studio 2015\Projects\PicroxxCreator\PicroxxCreator\bin\Debug\PicroxxCreator.xml
+C:\Users\Luke\Documents\Visual Studio 2015\Projects\PicroxxCreator\PicroxxCreator\obj\Debug\PicroxxCreator.vbprojResolveAssemblyReference.cache
+C:\Users\Luke\Documents\Visual Studio 2015\Projects\PicroxxCreator\PicroxxCreator\obj\Debug\PicroxxCreator.PuzzleCreator.resources
+C:\Users\Luke\Documents\Visual Studio 2015\Projects\PicroxxCreator\PicroxxCreator\obj\Debug\PicroxxCreator.Form1.resources
+C:\Users\Luke\Documents\Visual Studio 2015\Projects\PicroxxCreator\PicroxxCreator\obj\Debug\PicroxxCreator.Resources.resources
+C:\Users\Luke\Documents\Visual Studio 2015\Projects\PicroxxCreator\PicroxxCreator\obj\Debug\PicroxxCreator.vbproj.GenerateResource.Cache
+C:\Users\Luke\Documents\Visual Studio 2015\Projects\PicroxxCreator\PicroxxCreator\obj\Debug\PicroxxCreator.exe
+C:\Users\Luke\Documents\Visual Studio 2015\Projects\PicroxxCreator\PicroxxCreator\obj\Debug\PicroxxCreator.xml
+C:\Users\Luke\Documents\Visual Studio 2015\Projects\PicroxxCreator\PicroxxCreator\obj\Debug\PicroxxCreator.pdb
+C:\Users\Luke\Documents\Visual Studio 2015\Projects\PicroxxCreator\PicroxxCreator\obj\Debug\PicroxxCreator._10x10Creator.resources
