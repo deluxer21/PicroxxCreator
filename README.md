@@ -1,5 +1,3 @@
-**ABANDONED FOR NOW, SORRY**
-
 Picroxx Creator is a small program intended to streamline level creation for Picroxx (https://github.com/Substance12/Picroxx/).
 
 Substance12, if you're reading this, I didn't commit this to your repo because I don't want my massively unoptimized code weighing it down.
