@@ -13,4 +13,4 @@ To create a level using this utility:
 
 The program will generate two files upon saving - a .lua file containing the puzzle's code (to be parsed by the homebrew app) and a 10x10 .png file that can be used as the level's preview image.
 
-I'm simply making this to mess around with VB - yes, I've heard C# is better, IDGAF
+I'm simply making this to mess around with VB - yes, I've heard C# is better
